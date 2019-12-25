@@ -24,8 +24,8 @@ apt install php
 apt install figlet toilet
 read up
 clear
-print ("premi 1 per effettuare le chiamate")
-print ("premi 2 per uscire")
+input("premi 1 per effettuare le chiamate")
+input("premi 2 per uscire")
 
 def check.internet=()
 if res=True
